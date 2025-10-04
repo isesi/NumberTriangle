@@ -11,15 +11,15 @@ what you are tasked with for this task.
 
 ## The Task:
 
-- [ ] Fork this repo and clone a local copy to work in.
+- [x] Fork this repo and clone a local copy to work in.
 
-- [ ] Read the provided `NumberTriange.java` file to understand the definition of a number triangle and what
+- [x] Read the provided `NumberTriange.java` file to understand the definition of a number triangle and what
       methods and variables we have defined to represent the structure.
 
-- [ ] Implement the static method for loading a number triangle from a file.
+- [x] Implement the static method for loading a number triangle from a file.
   - Create an issue for this in your repo, write your code on a branch, make a PR once finished, and merge your PR. 
 
-- [ ] Implement the retrieve method.
+- [x] Implement the retrieve method.
   - Create an issue for this in your repo, write your code on a branch, make a PR once finished, and merge your PR.
 
 ## Requirements:
